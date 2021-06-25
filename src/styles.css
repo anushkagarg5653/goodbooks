@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop");
+  background-size: cover;
+  font-family: "Varela Round", sans-serif;
+  max-width: 700px;
+  margin: 0 auto;
+}
+h1 {
+  color: white;
+}
+
+span {
+  font-size: 3rem;
+}
+
+button {
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin: 0 1rem;
+  margin-bottom: 0.5rem;
+}
+
+li {
+  background: white;
+  font: bold;
+  list-style: none;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border: 1px solid black;
+  border-radius: 0.2rem;
+}
